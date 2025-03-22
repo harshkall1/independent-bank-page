@@ -13,6 +13,8 @@ const CreateAccount = () => {
         phoneNo: "",
         password: "",
         amount: 0,
+        bankname: "Independent Bank"
+
     });
 
     // State for loading
@@ -51,6 +53,8 @@ const CreateAccount = () => {
                 phoneNo: "",
                 password: "",
                 amount: 0,
+                bankname: "Independent Bank"
+
             });
 
             // Navigate to a confirmation page
